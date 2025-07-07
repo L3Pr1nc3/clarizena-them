@@ -76,8 +76,8 @@
         "heading_7zixtd": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
+            "text": "La formule unique qui révèle l’éclat de votre sourire dès la première utilisation.",
+            "heading_tag": "h2"
           }
         }
       },
@@ -91,6 +91,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/10f9dda7-b747-4655-3450-50e6d001b300.jpg",
+        "mobile_image": "shopify://shop_images/Design_sans_titre.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
