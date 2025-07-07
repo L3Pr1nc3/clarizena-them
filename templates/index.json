@@ -105,14 +105,16 @@
         "logo_d4BzkD": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/6bdd0807-f249-4d76-b28b-db1d139e2eaf.png",
+            "logo_width": 160,
             "link": ""
           }
         },
         "logo_jyca4X": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/ChatGPT_Image_3_juil._2025_05_19_28.png",
+            "logo_width": 300,
             "link": ""
           }
         },
@@ -129,30 +131,22 @@
             "logo_width": 120,
             "link": ""
           }
-        },
-        "logo_UfeiGj": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
         "logo_d4BzkD",
         "logo_jyca4X",
         "logo_idbhgP",
-        "logo_CwBNpq",
-        "logo_UfeiGj"
+        "logo_CwBNpq"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Vu sur :",
         "content": "",
-        "text_alignment": "start",
-        "items_per_row": 5,
+        "text_alignment": "center",
+        "items_per_row": 4,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -161,11 +155,38 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "rich_text_fVyazz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_a79MWi": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir ClariZena ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_a79MWi"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "slideshow",
     "image_with_text_overlay_AKBHmi",
-    "logo_list_R3xAXn"
+    "logo_list_R3xAXn",
+    "rich_text_fVyazz"
   ]
 }
