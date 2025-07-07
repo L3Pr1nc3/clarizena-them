@@ -98,10 +98,74 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "logo_list_R3xAXn": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_d4BzkD": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_jyca4X": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_idbhgP": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_CwBNpq": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_UfeiGj": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_d4BzkD",
+        "logo_jyca4X",
+        "logo_idbhgP",
+        "logo_CwBNpq",
+        "logo_UfeiGj"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
     }
   },
   "order": [
     "slideshow",
-    "image_with_text_overlay_AKBHmi"
+    "image_with_text_overlay_AKBHmi",
+    "logo_list_R3xAXn"
   ]
 }
