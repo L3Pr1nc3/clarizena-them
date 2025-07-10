@@ -190,7 +190,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Resultats_visibles_des_les_premieres_utilisations.png",
+        "image": "shopify://shop_images/6_benefices.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -198,30 +198,29 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_dXmpdz": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_biq3YL": {
-          "type": "heading",
-          "settings": {
-            "text": "Résultat Avant/Après",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_biq3YL"
-      ],
-      "name": "Rich text",
+    "before_after_image_McYjGd": {
+      "type": "before-after-image",
+      "name": "Before/after image",
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "subheading": "",
+        "title": "Résultat Avant/Après",
+        "content": "",
+        "before_image": "shopify://shop_images/avant.png",
+        "after_image": "shopify://shop_images/Apres.png",
+        "expand_image": false,
         "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     }
   },
@@ -231,6 +230,6 @@
     "logo_list_R3xAXn",
     "rich_text_fVyazz",
     "image_with_text_overlay_DLkV38",
-    "rich_text_dXmpdz"
+    "before_after_image_McYjGd"
   ]
 }
