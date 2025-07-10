@@ -39,9 +39,9 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
-      "11725188719379445612": {
-        "type": "shopify://apps/alireviews-aliexpress-reviews/blocks/collection-app-embed-block/ed1f8756-3ef0-4b52-b2bc-4add334ee46d",
-        "disabled": true,
+      "1990815452989453926": {
+        "type": "shopify://apps/ryviu-reviews-qa/blocks/ryviu-js/807ad6ed-1a6a-4559-abea-ed062858d9da",
+        "disabled": false,
         "settings": {}
       }
     }
