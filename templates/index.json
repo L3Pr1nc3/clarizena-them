@@ -249,39 +249,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "17521121718dde8970": {
-      "type": "apps",
-      "blocks": {
-        "ryviu_reviews_qa_ryviu_featured_widget_3jyGVN": {
-          "type": "shopify://apps/ryviu-reviews-qa/blocks/ryviu-featured-widget/807ad6ed-1a6a-4559-abea-ed062858d9da",
-          "settings": {
-            "title_heading": "Happy Customer",
-            "title_align": "r_center",
-            "title_status": true,
-            "type_ryviu": "default",
-            "r_wapper_featured": "",
-            "r_max_width_featured": 1920,
-            "padding_block": 0
-          }
-        }
-      },
-      "block_order": [
-        "ryviu_reviews_qa_ryviu_featured_widget_3jyGVN"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
     }
   },
   "order": [
@@ -291,7 +258,6 @@
     "rich_text_fVyazz",
     "image_with_text_overlay_DLkV38",
     "before_after_image_McYjGd",
-    "rich_text_LL9LR9",
-    "17521121718dde8970"
+    "rich_text_LL9LR9"
   ]
 }
