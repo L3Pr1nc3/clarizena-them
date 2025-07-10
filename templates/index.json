@@ -191,6 +191,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/6_benefices.png",
+        "mobile_image": "shopify://shop_images/6_benefices.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -222,6 +223,32 @@
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
       }
+    },
+    "rich_text_LL9LR9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cahqyP": {
+          "type": "heading",
+          "settings": {
+            "text": "Nos clients en parles le mieux",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_cahqyP"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -230,6 +257,7 @@
     "logo_list_R3xAXn",
     "rich_text_fVyazz",
     "image_with_text_overlay_DLkV38",
-    "before_after_image_McYjGd"
+    "before_after_image_McYjGd",
+    "rich_text_LL9LR9"
   ]
 }
