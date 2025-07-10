@@ -282,6 +282,107 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "featured_product_EEqkDA": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_aDWYxp": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_FNJyLD": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_X8demr": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_hcgmya": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_EeJzVt": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_MibfJY": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_8MEgrY": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_zBcaCB": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_DMTwV3": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_Ed3hYW": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_NnNKRa": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_aDWYxp",
+        "title_FNJyLD",
+        "badges_X8demr",
+        "price_hcgmya",
+        "rating_EeJzVt",
+        "separator_MibfJY",
+        "description_8MEgrY",
+        "variant_picker_zBcaCB",
+        "quantity_selector_DMTwV3",
+        "buy_buttons_Ed3hYW",
+        "pickup_availability_NnNKRa"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "clarizena™-dentifrice-blanchissant-a-la-niacinamide",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -292,6 +393,7 @@
     "image_with_text_overlay_DLkV38",
     "before_after_image_McYjGd",
     "rich_text_LL9LR9",
-    "17521121718dde8970"
+    "17521121718dde8970",
+    "featured_product_EEqkDA"
   ]
 }
