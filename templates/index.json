@@ -339,7 +339,7 @@
         "buy_buttons_Ed3hYW": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
@@ -369,7 +369,7 @@
       "settings": {
         "full_width": true,
         "product": "clarizena™-dentifrice-blanchissant-a-la-niacinamide",
-        "desktop_media_width": 55,
+        "desktop_media_width": 45,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "floating_dots",
