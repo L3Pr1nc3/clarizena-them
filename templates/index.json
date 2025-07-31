@@ -316,15 +316,15 @@
             "liquid": "<div class=\"alerte-stock\">\n  ⚠️ En stock : <strong>4</strong> restants \n</div>\n\n<style>\n  .alerte-stock {\n    color: #d10000;\n    background-color: #ffe5e5;\n    border: 1px solid #d10000;\n    padding: 10px 15px;\n    border-radius: 6px;\n    font-size: 16px;\n    font-weight: bold;\n    font-family: Arial, sans-serif;\n    display: inline-block;\n    margin-top: 10px;\n    animation: clignote 1.2s infinite;\n  }\n\n  @keyframes clignote {\n    0% { opacity: 1; }\n    50% { opacity: 0.5; }\n    100% { opacity: 1; }\n  }\n</style>"
           }
         },
-        "rating_EeJzVt": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "separator_MibfJY": {
           "type": "separator",
           "settings": {}
+        },
+        "liquid_VYj4mg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"garanties-clarizena\">\n  <div class=\"garantie-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/128/891/891462.png\" alt=\"Paiement sécurisé\">\n    <span>Paiement sécurisé</span>\n  </div>\n  <div class=\"garantie-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/128/1040/1040230.png\" alt=\"Livraison gratuite\">\n    <span>Livraison gratuite</span>\n  </div>\n  <div class=\"garantie-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/128/190/190411.png\" alt=\"Satisfait ou remboursé\">\n    <span>Satisfait ou remboursé</span>\n  </div>\n</div>\n\n<style>\n  .garanties-clarizena {\n    display: flex;\n    justify-content: space-between;\n    gap: 15px;\n    margin-top: 20px;\n    font-family: Arial, sans-serif;\n    flex-wrap: wrap;\n  }\n\n  .garantie-item {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    flex: 1;\n    min-width: 180px;\n  }\n\n  .garantie-item img {\n    width: 24px;\n    height: 24px;\n  }\n\n  .garantie-item span {\n    font-size: 14px;\n    font-weight: bold;\n    color: #333;\n  }\n</style>"
+          }
         },
         "description_8MEgrY": {
           "type": "description",
@@ -368,8 +368,8 @@
         "liquid_3P4Xa6",
         "price_hcgmya",
         "liquid_GAVwEJ",
-        "rating_EeJzVt",
         "separator_MibfJY",
+        "liquid_VYj4mg",
         "description_8MEgrY",
         "variant_picker_zBcaCB",
         "quantity_selector_DMTwV3",
