@@ -361,8 +361,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_69.webp",
-            "alignment": "start",
-            "max_width": 490
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "pickup_availability_NnNKRa": {
