@@ -105,7 +105,7 @@
         "logo_d4BzkD": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ELLE.png",
+            "logo": "shopify://shop_images/ELLE-removebg-preview.png",
             "logo_width": 110,
             "link": ""
           }
@@ -121,14 +121,16 @@
         "logo_idbhgP": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/cOSMOPOLITAN-removebg-preview.png",
+            "logo_width": 200,
             "link": ""
           }
         },
         "logo_CwBNpq": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/telechargement-removebg-preview.png",
+            "logo_width": 200,
             "link": ""
           }
         }
