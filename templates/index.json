@@ -498,8 +498,8 @@
         "title": "FAQ",
         "content": "<p>Chez <strong>ClariZena</strong>, nous savons que commander en ligne peut soulever des interrogations. C’est pourquoi nous avons réuni ici les questions les plus fréquemment posées par nos clients, pour vous offrir une expérience d’achat simple, transparente et rassurante.</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -512,6 +512,27 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
+      }
+    },
+    "contact_X9BqaT": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Une question ?",
+        "content": "<p>Notre service client est disponible 7 jours sur 7. Temps de réponse moyen : 24 heures</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     }
   },
@@ -526,6 +547,7 @@
     "17521121718dde8970",
     "featured_product_EEqkDA",
     "tabs_fFd8xQ",
-    "faq_4F6wQx"
+    "faq_4F6wQx",
+    "contact_X9BqaT"
   ]
 }
