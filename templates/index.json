@@ -396,6 +396,115 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_fFd8xQ": {
+      "type": "tabs",
+      "blocks": {
+        "tab_9DBgVG": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<p><strong>Blanchiment Instantané</strong><br/><br/>Résultats visibles dès les premières utilisations grâce à une formule active.</p><p><strong>Enrichi en Niacinamide</strong><br/><br/>Un ingrédient reconnu pour ses propriétés éclaircissantes, même en cosmétique.</p><p><strong>Formule Douce et Non Abrasive</strong><br/><br/>N’endommage pas l’émail et convient à un usage quotidien.</p><p><strong>Goût Rafraîchissant</strong><br/><br/>Laisse une haleine fraîche et agréable après chaque brossage.</p><p><strong>Effet Cosmétique Immédiat</strong><br/><br/>Améliore visuellement la blancheur des dents dès l'application (effet temporaire cosmétique pour les vidéos ou photos).</p><p><strong>Packaging Élégant et Premium</strong><br/><br/>Design moderne avec effet pailleté et bouchon transparent, idéal pour les placements visuels sur TikTok ou Instagram.</p><p><strong>Convient à Tous les Types de Dents</strong><br/><br/>Peut être utilisé sur des dents sensibles, tachées ou jaunies.</p><p><strong>Sans Fluor</strong><br/><br/>Alternative naturelle pour ceux qui souhaitent éviter les produits fluorés.</p><p><strong>Vegan & Cruelty-Free</strong><br/><br/>Non testé sur les animaux, sans ingrédients d’origine animale.</p>",
+            "page": ""
+          }
+        },
+        "tab_LPpb68": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingrédients",
+            "content": "<p><strong>Niacinamide ( Vitamine B3 )</strong><br/>Actif éclaircissant reconnu, souvent utilisé en cosmétique pour unifier le teint.</p><p><strong>Hydrated Silica</strong><br/>Aide à nettoyer les dents en douceur sans abîmer l’émail.</p><p><strong>Xylitol</strong><br/>Édulcorant naturel qui limite la prolifération des bactéries responsables des caries.</p><p><strong>Glycerin</strong><br/>Hydrate et apporte une texture agréable à la pâte.</p><p><strong>Menthol</strong><br/>Apporte une sensation de fraîcheur durable.</p><p><strong>Sodium Lauroyl Sarcosinate</strong><br/>Agent moussant doux, respectueux de l’émail.</p><p><strong>Mica</strong><br/>Donne un effet brillant et éclatant temporaire sur les dents.</p><p><strong>Aqua (eau)</strong><br/>Base de la formulation.</p><p><strong>Aroma (parfum)</strong><br/>Donne un goût agréable pendant le brossage.</p><p><strong>Sodium Saccharin</strong><br/>Édulcorant synthétique pour une touche sucrée.</p><p><strong>Limonene</strong><br/>Composant naturel d’huiles essentielles, apporte un arôme citronné.</p><p><strong>CI 77891 (Dioxyde de titane)</strong><br/>Agent blanchissant minéral utilisé pour renforcer la blancheur visuelle.</p><p><strong>CI 42090 (Colorant bleu)</strong><br/>Ajoute une légère teinte bleue qui accentue visuellement la blancheur des dents.</p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><strong>Niacinamide (Vitamine B3)</strong> : ingrédient phare connu pour ses propriétés éclaircissantes.</p>",
+            "page": ""
+          }
+        },
+        "tab_xQaFeq": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison Gratuite",
+            "content": "<p>La livraison est offerte. Selon le volume de commandes à traiter, le délais de livraison est estimé entre 5 à 8 jours ouvrés.</p>",
+            "page": ""
+          }
+        },
+        "tab_VLnpcc": {
+          "type": "tab",
+          "settings": {
+            "title": "Service Client 7J/7",
+            "content": "<p>Notre équipe d'assistance est disponible 24 heures sur 24 pour répondre à vos questions et résoudre tout problème, avant, pendant et après votre commande. Vous avez besoin d'aide pour le suivi ou vous avez une question ? Nous sommes là pour vous à tout moment.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_9DBgVG",
+        "tab_LPpb68",
+        "tab_xQaFeq",
+        "tab_VLnpcc"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "faq_4F6wQx": {
+      "type": "faq",
+      "blocks": {
+        "item_MbbDLW": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_L7EDep": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_yQxnNL": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_MbbDLW",
+        "item_L7EDep",
+        "item_yQxnNL"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -407,6 +516,8 @@
     "before_after_image_McYjGd",
     "rich_text_LL9LR9",
     "17521121718dde8970",
-    "featured_product_EEqkDA"
+    "featured_product_EEqkDA",
+    "tabs_fFd8xQ",
+    "faq_4F6wQx"
   ]
 }
