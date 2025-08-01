@@ -459,36 +459,44 @@
         "item_MbbDLW": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Est-ce que la pâte blanchissante est vraiment efficace ?",
+            "content": "<p>Oui, notre formule a été conçue pour offrir un <strong>effet cosmétique immédiat</strong> dès la première utilisation, tout en améliorant visiblement la blancheur des dents au fil des jours grâce à des ingrédients comme le <strong>Niacinamide</strong>.</p>"
           }
         },
         "item_L7EDep": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Est-ce que le produit est dangereux pour l’émail ?",
+            "content": "<p>Non, notre pâte est <strong>non abrasive</strong> et <strong>formulée pour un usage quotidien</strong>. Elle nettoie en douceur sans abîmer l’émail, même sur les dents sensibles.</p>"
           }
         },
         "item_yQxnNL": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Livrez-vous à l’étranger ?",
+            "content": "<p>Actuellement, nous livrons uniquement en <strong>France</strong>. L’expansion vers d’autres pays est en cours !</p>"
+          }
+        },
+        "item_MN7VdL": {
+          "type": "item",
+          "settings": {
+            "title": "Le paiement est-il sécurisé ?",
+            "content": "<p>Oui, tous les paiements sur notre site sont <strong>100% sécurisés</strong> grâce à notre système de cryptage SSL. Nous acceptons les principales cartes bancaires ainsi que PayPal.</p>"
           }
         }
       },
       "block_order": [
         "item_MbbDLW",
         "item_L7EDep",
-        "item_yQxnNL"
+        "item_yQxnNL",
+        "item_MN7VdL"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "<p>Chez <strong>ClariZena</strong>, nous savons que commander en ligne peut soulever des interrogations. C’est pourquoi nous avons réuni ici les questions les plus fréquemment posées par nos clients, pour vous offrir une expérience d’achat simple, transparente et rassurante.</p>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
