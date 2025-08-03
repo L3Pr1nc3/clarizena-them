@@ -285,6 +285,81 @@
         "review_button_text_color": "#ffffff"
       }
     },
+    "multi_column_9hVhj6": {
+      "type": "multi-column",
+      "blocks": {
+        "item_C3YKa6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/kvjMwpL_eP.jpg",
+            "column_size": "3",
+            "title": "Aïcha D. – Marseille, FR",
+            "heading_tag": "h4",
+            "content": "<p>Moi qui bois beaucoup de thé, j’avais des tâches depuis des années. Cette pâte m’a bluffée. Résultat visible en 3 jours chez moi.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3ypHmh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/review5.png",
+            "column_size": "4",
+            "title": "Julien M. – Paris, FR",
+            "heading_tag": "h4",
+            "content": "<p>J’étais sceptique au début, mais après une semaine, mes dents sont visiblement plus blanches. Pas d’irritation, texture agréable, et en plus c’est rapide à appliquer.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_99Bwdz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/review1.webp",
+            "column_size": "3",
+            "title": "Clara B. – Lille, FR",
+            "heading_tag": "h4",
+            "content": "<p>J’adore ! Texture douce, goût agréable, et effet instantané. Même mon copain m’a demandé ce que j’ai changé dans ma routine 😄.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LBcnPj": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_C3YKa6",
+        "item_3ypHmh",
+        "item_99Bwdz",
+        "item_LBcnPj"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parles le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_product_EEqkDA": {
       "type": "featured-product",
       "blocks": {
@@ -545,6 +620,7 @@
     "before_after_image_McYjGd",
     "rich_text_LL9LR9",
     "17521121718dde8970",
+    "multi_column_9hVhj6",
     "featured_product_EEqkDA",
     "tabs_fFd8xQ",
     "faq_4F6wQx",
