@@ -304,8 +304,8 @@
         "item_3ypHmh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/review5.png",
-            "column_size": "4",
+            "image": "shopify://shop_images/review5_resized.png",
+            "column_size": "3",
             "title": "Julien M.",
             "heading_tag": "h4",
             "content": "<p>J’étais sceptique au début, mais après une semaine, mes dents sont visiblement plus blanches. Pas d’irritation, texture agréable, et en plus c’est rapide à appliquer.</p>",
