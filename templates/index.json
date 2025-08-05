@@ -327,6 +327,14 @@
             "liquid": "<div class=\"alerte-stock\">\n  ⚠️ En stock : <strong>4</strong> restants \n</div>\n\n<style>\n  .alerte-stock {\n    color: #d10000;\n    background-color: #ffe5e5;\n    border: 1px solid #d10000;\n    padding: 10px 15px;\n    border-radius: 6px;\n    font-size: 16px;\n    font-weight: bold;\n    font-family: Arial, sans-serif;\n    display: inline-block;\n    margin-top: 10px;\n    animation: clignote 1.2s infinite;\n  }\n\n  @keyframes clignote {\n    0% { opacity: 1; }\n    50% { opacity: 0.5; }\n    100% { opacity: 1; }\n  }\n</style>"
           }
         },
+        "image_XXYALL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PROMO_D_ETE_1.png",
+            "alignment": "center",
+            "max_width": 480
+          }
+        },
         "separator_MibfJY": {
           "type": "separator",
           "settings": {}
@@ -386,6 +394,7 @@
         "badges_X8demr",
         "liquid_3P4Xa6",
         "liquid_GAVwEJ",
+        "image_XXYALL",
         "separator_MibfJY",
         "description_8MEgrY",
         "variant_picker_zBcaCB",
