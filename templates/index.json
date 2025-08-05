@@ -327,6 +327,12 @@
             "liquid": "<div class=\"alerte-stock\">\n  ⚠️ En stock : <strong>4</strong> restants \n</div>\n\n<style>\n  .alerte-stock {\n    color: #d10000;\n    background-color: #ffe5e5;\n    border: 1px solid #d10000;\n    padding: 10px 15px;\n    border-radius: 6px;\n    font-size: 16px;\n    font-weight: bold;\n    font-family: Arial, sans-serif;\n    display: inline-block;\n    margin-top: 10px;\n    animation: clignote 1.2s infinite;\n  }\n\n  @keyframes clignote {\n    0% { opacity: 1; }\n    50% { opacity: 0.5; }\n    100% { opacity: 1; }\n  }\n</style>"
           }
         },
+        "liquid_97LxbW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; justify-content: center; align-items: center; background-color: #eafaf1; padding: 10px 16px; border-radius: 8px; font-family: Arial, sans-serif; max-width: 100%; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: center;\">\n  <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"#2ecc71\" viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" style=\"margin-right: 10px;\">\n    <path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 2.18L19 6v5c0 4.42-3.15 8.97-7 10.3C8.15 19.97 5 15.42 5 11V6l7-2.82zM11 14.59l4.3-4.3-1.42-1.42L11 11.76l-1.88-1.88-1.42 1.41L11 14.59z\"/>\n  </svg>\n  <span style=\"color: #2ecc71; font-weight: bold; font-size: 14px;\">\n    30 JOURS SATISFAIT OU REMBOURSÉ\n  </span>\n</div>"
+          }
+        },
         "image_XXYALL": {
           "type": "image",
           "settings": {
@@ -394,6 +400,7 @@
         "badges_X8demr",
         "liquid_3P4Xa6",
         "liquid_GAVwEJ",
+        "liquid_97LxbW",
         "image_XXYALL",
         "separator_MibfJY",
         "description_8MEgrY",
