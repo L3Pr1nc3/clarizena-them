@@ -84,5 +84,15 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
+
+    <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var el = document.querySelector(".r--total-view");
+    if (el) {
+      el.textContent = "601 avis";
+    }
+  });
+  </script>
+
   </body>
 </html>
