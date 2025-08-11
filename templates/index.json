@@ -374,6 +374,29 @@
         "overlay_opacity": 30
       }
     },
+    "rich_text_hWbTaR": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_Ab6rCN": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Chez <strong>Clarizena</strong>, nous comprenons à quel point il est essentiel d'avoir des dents propres, éclatantes comme la neige, et une haleine fraîche tout au long de la journée. Un sourire lumineux et une haleine agréable renforcent votre confiance en vous, vous donnent une énergie positive et vous préparent à vivre une journée meilleure.</p><p><strong>Clarizena</strong> ne se limite pas à être un simple dentifrice : c’est une véritable solution pour vous sentir pleinement à l’aise et sûr de vous, en toutes circonstances.</p><p>Grâce à sa formule innovante, notre pâte agit rapidement pour révéler la blancheur naturelle de vos dents et garder votre bouche fraîche durablement.</p><p>Essayez <strong>Clarizena</strong> dès maintenant et adoptez la confiance d’un sourire éclatant !</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_Ab6rCN"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_product_EEqkDA": {
       "type": "featured-product",
       "blocks": {
@@ -668,6 +691,7 @@
     "multi_column_9hVhj6",
     "rich_text_gj9rWd",
     "video_LHEgNM",
+    "rich_text_hWbTaR",
     "featured_product_EEqkDA",
     "tabs_fFd8xQ",
     "faq_4F6wQx",
