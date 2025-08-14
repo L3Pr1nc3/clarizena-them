@@ -85,6 +85,18 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
       {%- endif -%}
     </main>
 
+    <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const interval = setInterval(function () {
+      var el = document.querySelector(".r--total-view");
+      if (el) {
+        el.textContent = "601 Avis";
+        clearInterval(interval); // on arrête une fois qu'on a trouvé l'élément
+      }
+    }, 300); // essaie toutes les 300ms
+  });
+    </script>
+
 
   </body>
 </html>
