@@ -232,7 +232,7 @@
         "item_C3YKa6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/teeth_resized.png",
+            "image": "shopify://shop_images/teeth_resized-min.webp",
             "column_size": "3",
             "title": "Aïcha D.",
             "heading_tag": "h4",
