@@ -97,6 +97,47 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
   });
     </script>
 
+    <script>
+// 1. Forcer le lazy load sur toutes les images et iframes
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll("img, iframe").forEach(el => {
+    if (!el.hasAttribute("loading")) {
+      el.setAttribute("loading", "lazy");
+    }
+  });
+});
+
+// 2. Différer le chargement des scripts lourds
+window.addEventListener("load", function() {
+  setTimeout(function(){
+    // Exemple : Pixel Facebook
+    var fb = document.createElement('script');
+    fb.src = "https://connect.facebook.net/en_US/fbevents.js";
+    document.body.appendChild(fb);
+
+    // Exemple : Google Analytics
+    var ga = document.createElement('script');
+    ga.src = "https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXX-X";
+    document.body.appendChild(ga);
+
+  }, 2000); // Charge après 2 secondes
+});
+
+// 3. Précharger les ressources clés
+var preloads = [
+  { href: "{{ 'theme.css' | asset_url }}", as: "style" },
+  { href: "{{ 'theme.js' | asset_url }}", as: "script" }
+];
+preloads.forEach(function(file) {
+  var link = document.createElement('link');
+  link.rel = 'preload';
+  link.href = file.href;
+  link.as = file.as;
+  document.head.appendChild(link);
+});
+  </script>
+
+
 
   </body>
 </html>
