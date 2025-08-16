@@ -427,8 +427,8 @@
         "image_hUVwr9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/PROMO_D_ETE_1.png",
-            "alignment": "start",
+            "image": "shopify://shop_images/promo_ete_arrondi.png",
+            "alignment": "center",
             "max_width": 500
           }
         },
