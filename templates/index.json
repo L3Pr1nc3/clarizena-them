@@ -236,7 +236,7 @@
             "column_size": "3",
             "title": "Aïcha D.",
             "heading_tag": "h4",
-            "content": "<p>Moi qui bois beaucoup de thé, j’avais des tâches depuis des années. Cette pâte m’a bluffée. Résultat visible en 3 jours chez moi.</p>",
+            "content": "<p>Cette pâte m’a bluffée. Résultat visible en 3 jours chez moi.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -257,13 +257,12 @@
         },
         "item_99Bwdz": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/review1.webp",
+            "image": "shopify://shop_images/image2_resized_1400x1400_ee535347-41cd-4312-8d1f-a2584215777b.jpg",
             "column_size": "3",
-            "title": "Clara B.",
+            "title": "Marc B.",
             "heading_tag": "h4",
-            "content": "<p>J’adore ! Texture douce, goût agréable, et effet instantané. Même mon copain m’a demandé ce que j’ai changé dans ma routine 😄.</p>",
+            "content": "<p>Franchement je n’y croyais pas au début… Mes dents étaient vraiment jaunes et tachées à cause du café et de la cigarette. J’avais honte de sourire, même sur les photos. J’ai décidé de tester la pâte Clarizena, et au bout de 24 jours seulement, voilà le résultat : c’est juste incroyable ! Mes dents n’ont jamais été aussi blanches. Je ne pense même pas qu’aller chez le dentiste m’aurait donné un tel résultat. En plus, ma bouche reste fraîche toute la journée. Je recommande à 200 % !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -272,11 +271,11 @@
         "item_LBcnPj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-08-18_at_2.07.27_PM.jpg",
+            "image": "shopify://shop_images/image_resized_1400x1400_af5cbb6b-46da-45af-a896-a735b3c9298b.jpg",
             "column_size": "3",
             "title": "Mélissa G.",
             "heading_tag": "h4",
-            "content": "<p>Je ne croyais pas aux produits de blanchiment, mais Clarizena a changé mon avis. Résultat en 5 jours, je recommande les yeux fermés.</p>",
+            "content": "<p>Je ne croyais pas aux produits de blanchiment, mais Clarizena a changé mon avis. Résultat en quelque jour, je recommande les yeux fermés.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
