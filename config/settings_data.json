@@ -155,8 +155,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-      "/* Cacher le bouton Ajouter au panier spécifique */#product-form-10284975292762-template--25514769940826__featured_product_EEqkDA > div > buy-buttons > button {display: none !important;}"
-    ]
+    "custom_css": []
   }
 }
