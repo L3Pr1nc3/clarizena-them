@@ -1,1 +1,352 @@
-{"sections":{"main":{"type":"main-not-found","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "settings": {}
+    },
+    "image_with_text_overlay_aF67QQ": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_4LKAyn": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_RtbA3k": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_zmBMw4": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4LKAyn",
+        "heading_RtbA3k",
+        "richtext_zmBMw4"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_18_oct._2025_01_27_35.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_18_oct._2025_01_27_43.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_mhc4Yp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qff8PR": {
+          "type": "heading",
+          "settings": {
+            "text": "Seen on:",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_qff8PR"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "logo_list_pcQC4N": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_HYaRM7": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/VOGUE-removebg-preview.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_RGkPHX": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/6bdd0807-f249-4d76-b28b-db1d139e2eaf.png",
+            "logo_width": 280,
+            "link": ""
+          }
+        },
+        "logo_cnnpjn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/telechargement-removebg-preview_1.png",
+            "logo_width": 190,
+            "link": ""
+          }
+        },
+        "logo_wrfwhr": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/cOSMOPOLITAN-removebg-preview_1.png",
+            "logo_width": 240,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_HYaRM7",
+        "logo_RGkPHX",
+        "logo_cnnpjn",
+        "logo_wrfwhr"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_mw7ewk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GCT9fk": {
+          "type": "heading",
+          "settings": {
+            "text": "Why choose us?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_GCT9fk"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_mNpEiQ": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_18_oct._2025_01_57_23.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_XyDLFk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8q7FJr": {
+          "type": "heading",
+          "settings": {
+            "text": "BEFORE / AFTER",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_8q7FJr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "before_after_image_DLkkUk": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/ChatGPT_Image_18_oct._2025_02_07_09.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "featured_product_4RbRMg": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_bkbFWP": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_gLrGjB": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_KhwD8T": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_nNiejq": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_DKgytA": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_LxFtBN": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_wtPnhQ": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_U68Wyq": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_Heydn7": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_Jz4Dkn": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_MzcEtf": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_bkbFWP",
+        "title_gLrGjB",
+        "badges_KhwD8T",
+        "price_nNiejq",
+        "rating_DKgytA",
+        "separator_LxFtBN",
+        "description_wtPnhQ",
+        "variant_picker_U68Wyq",
+        "quantity_selector_Heydn7",
+        "buy_buttons_Jz4Dkn",
+        "pickup_availability_MzcEtf"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "silkblush-nourishing-body-wash",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_aF67QQ",
+    "rich_text_mhc4Yp",
+    "logo_list_pcQC4N",
+    "rich_text_mw7ewk",
+    "image_with_text_overlay_mNpEiQ",
+    "rich_text_XyDLFk",
+    "before_after_image_DLkkUk",
+    "featured_product_4RbRMg"
+  ]
+}
