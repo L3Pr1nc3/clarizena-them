@@ -94,7 +94,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Inscrivez-vous pour  des offres personnelles",
+            "title": "Sign up for personal offers",
             "content": ""
           }
         },
@@ -108,8 +108,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Nous contacter",
-            "content": "<p>Service client : <a>contact@clarizena.com</a><br/><br/>Horaires d’ouverture :<br/><br/>Lundi – Vendredi : 8h00 à 18h00<br/><br/>Samedi et Dimanche : 9h00 à 12h00</p>",
+            "title": "Contact us",
+            "content": "<p>Customer service: contact@flydeka.com</p><p>Opening hours:Monday – Friday: 8:00 a.m. to 6:00 p.m.</p><p>Saturday and Sunday: 9:00 a.m. to 12:00 p.m.</p>",
             "enable_follow_on_shop": true
           }
         }
