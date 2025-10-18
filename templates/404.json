@@ -292,7 +292,7 @@
         "buy_buttons_Jz4Dkn": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
@@ -336,6 +336,62 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_GWzEAJ": {
+      "type": "tabs",
+      "blocks": {
+        "tab_E8ebgm": {
+          "type": "tab",
+          "settings": {
+            "title": "Description",
+            "content": "<p>Experience <strong>SilkBlush Nourishing Body Wash</strong> by <strong>Flydeka</strong>, a hydrating shower gel made with <strong>clinically tested and non-irritating ingredients</strong>.<br/><br/>Infused with <strong>aloe vera</strong>, <strong>vitamin E</strong>, and <strong>panthenol</strong>, it gently cleanses while maintaining the skin’s natural moisture balance.<br/><br/>Its silky texture and light foam leave your skin feeling <strong>fresh, soft, and beautifully nourished</strong> after every shower.</p><p>✅ Dermatologically tested<br/><br/>✅ Free from parabens, harsh sulfates, and silicones<br/><br/>✅ Suitable for all skin types, including sensitive skin<br/><br/>✅ Formulated in compliance with European 🇪🇺 and U.S. 🇺🇸 cosmetic safety standards</p><p><strong>Origin:</strong> Formulated and manufactured in Europe 🇪🇺<br/><br/><strong>Volume:</strong> 250 ml / 500 ml</p>",
+            "page": ""
+          }
+        },
+        "tab_7YLrrV": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingredients",
+            "content": "<p>Aqua (Water)<br/><br/>Cocamidopropyl Betaine<br/><br/>Sodium Lauroyl Sarcosinate<br/><br/>Glycerin<br/><br/>Aloe Barbadensis Leaf Juice<br/><br/>Panthenol<br/><br/>Allantoin<br/><br/>Tocopheryl Acetate (Vitamin E)<br/><br/>Sodium Chloride<br/><br/>Citric Acid<br/><br/>Sodium Benzoate<br/><br/>Potassium Sorbate<br/><br/>PEG-7 Glyceryl Cocoate<br/><br/>Parfum (Fragrance)</p>",
+            "page": ""
+          }
+        },
+        "tab_9MRqFy": {
+          "type": "tab",
+          "settings": {
+            "title": "Customer Service 7/7",
+            "content": "<p>Our customer service team is available 7 days a week.<br/><br/>You can contact us using the \"Contact\" tab in our store or by email at contact@flydeka.com</p>",
+            "page": ""
+          }
+        },
+        "tab_aqmFpt": {
+          "type": "tab",
+          "settings": {
+            "title": "Fast delivery",
+            "content": "<p>At Flydeka, we know how important it is to receive your products quickly.<br/>That's why we've implemented a secure, express delivery service for all your orders.<br/><br/>✅ Order processing within 24 to 48 business hours<br/>✅ Delivery to Europe: 3 to 7 business days<br/>✅ Delivery to the United States: 7 to 12 business days<br/>✅ Real-time package tracking from the moment your order is shipped<br/><br/>We work with reliable carriers to ensure your order arrives in perfect condition and as quickly as possible.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_E8ebgm",
+        "tab_7YLrrV",
+        "tab_9MRqFy",
+        "tab_aqmFpt"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "Feature of Flydeka-Nourishing Shower Gel Silk Blush",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -347,6 +403,7 @@
     "image_with_text_overlay_mNpEiQ",
     "rich_text_XyDLFk",
     "before_after_image_DLkkUk",
-    "featured_product_4RbRMg"
+    "featured_product_4RbRMg",
+    "tabs_GWzEAJ"
   ]
 }
