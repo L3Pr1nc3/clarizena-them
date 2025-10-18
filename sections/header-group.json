@@ -54,7 +54,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#b9d9eb",
+        "background": "#fadadd",
         "background_gradient": "",
         "text_color": "#000000"
       }
@@ -64,7 +64,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/ClariZen-removebg-preview.png",
         "logo_max_width": 150,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
