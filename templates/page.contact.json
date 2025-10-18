@@ -20,10 +20,10 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "Contactez-nous",
-        "title": "Avez-vous des questions?",
+        "subheading": "Contact us",
+        "title": "Do you have any questions?",
         "content": "",
-        "text_position": "start",
+        "text_position": "center",
         "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
