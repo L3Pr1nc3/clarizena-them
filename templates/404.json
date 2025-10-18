@@ -450,6 +450,91 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_e9keEh": {
+      "type": "faq",
+      "blocks": {
+        "item_grE3WQ": {
+          "type": "item",
+          "settings": {
+            "title": "How often can I use SilkBlush Nourishing Body Wash?",
+            "content": "<p>You can use it <strong>daily</strong>, morning and night. Its gentle formula respects your skin’s natural balance without causing dryness.</p>"
+          }
+        },
+        "item_PRXPCt": {
+          "type": "item",
+          "settings": {
+            "title": "Is it suitable for all skin types?",
+            "content": "<p>Yes! It’s <strong>dermatologically tested</strong> and safe for <strong>all skin types</strong>, including sensitive skin.<br/><br/>Free from <strong>parabens, harsh sulfates, and silicones</strong>.</p>"
+          }
+        },
+        "item_n9hxfK": {
+          "type": "item",
+          "settings": {
+            "title": "What are the main benefits?",
+            "content": "<p>Deeply hydrates and softens</p><p><br/>Cleanses gently<br/></p><p><br/>Refreshes and soothes the skin<br/></p><p><br/>Gives an instant natural glow</p>"
+          }
+        },
+        "item_7gmHcN": {
+          "type": "item",
+          "settings": {
+            "title": "When will I see results?",
+            "content": "<p>You’ll notice smoother, softer, and more hydrated skin <strong>from the very first use</strong>, with even better results over time.</p>"
+          }
+        },
+        "item_6U3HaY": {
+          "type": "item",
+          "settings": {
+            "title": "Can I use it with other products?",
+            "content": "<p>Absolutely!<br/><br/>For best results, use it with a <strong>light moisturizer</strong> after showering.</p>"
+          }
+        },
+        "item_fQxmL7": {
+          "type": "item",
+          "settings": {
+            "title": "What are the delivery times?",
+            "content": "<p><strong>Europe:</strong> 3–7 business days</p><p><br/><strong>United States:</strong> 7–12 business days<br/><br/>Every order includes <strong>tracking information</strong>.</p>"
+          }
+        },
+        "item_dzMDcJ": {
+          "type": "item",
+          "settings": {
+            "title": "What if I’m not satisfied?",
+            "content": "<p>No worries <br/><br/>We offer a <strong>30-day money-back guarantee</strong>.<br/><br/>Just contact us at <a><strong>contact@flydeka.com</strong></a>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_grE3WQ",
+        "item_PRXPCt",
+        "item_n9hxfK",
+        "item_7gmHcN",
+        "item_6U3HaY",
+        "item_fQxmL7",
+        "item_dzMDcJ"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -463,6 +548,7 @@
     "before_after_image_DLkkUk",
     "rich_text_6xAex6",
     "featured_product_4RbRMg",
-    "tabs_GWzEAJ"
+    "tabs_GWzEAJ",
+    "faq_e9keEh"
   ]
 }
