@@ -240,31 +240,14 @@
     "rich_text_6xAex6": {
       "type": "rich-text",
       "blocks": {
-        "subheading_LHMVU4": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_myhxdG": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
         "richtext_hRCY9G": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>At <strong>Flydeka</strong>, we believe that confidence starts with how you feel in your own skin.<br/><br/>Our <strong>SilkBlush Body Wash</strong> was designed to <strong>nourish, refresh, and bring out your skin’s natural radiance</strong>, helping you feel beautiful inside and out.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_LHMVU4",
-        "heading_myhxdG",
         "richtext_hRCY9G"
       ],
       "name": "Rich text",
