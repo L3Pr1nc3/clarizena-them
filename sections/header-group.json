@@ -17,28 +17,28 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Livraison gratuite à domicile",
+            "text": "Free home delivery",
             "url": ""
           }
         },
         "message_VWDkYy": {
           "type": "message",
           "settings": {
-            "text": "Paiement 100% sécurisé",
+            "text": "100% secure payment",
             "url": ""
           }
         },
         "message_HGCCbf": {
           "type": "message",
           "settings": {
-            "text": "Satisfait ou remboursé",
+            "text": "Satisfied or your money back",
             "url": ""
           }
         },
         "message_mr4Q7H": {
           "type": "message",
           "settings": {
-            "text": "Offre Limité -63%",
+            "text": "Limited Offer",
             "url": ""
           }
         }
